@@ -6,3 +6,5 @@ Primeiras alterações por aqui
 
 
 ## Praticando por aqui, mais uma vez :)
+
+Linha nova criada por aqui!
