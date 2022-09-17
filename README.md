@@ -7,4 +7,6 @@ Primeiras alterações por aqui
 
 ## Praticando por aqui, mais uma vez :)
 
+
 Linha criada na branch 2 também na linha 10
+Linha nova criada por aqui!
